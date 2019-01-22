@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InfantryCaculator
+namespace InfantryCalculator
 {
-  public  class Caculator
+  public  class Calculator
     {
         
         Axeman axeman = new Axeman();

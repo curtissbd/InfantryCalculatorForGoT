@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InfantryCaculator
+namespace InfantryCalculator
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Caculator caculator = new Caculator();
+            Calculator caculator = new Calculator();
             caculator.retrieveInfo();
         }
     }
